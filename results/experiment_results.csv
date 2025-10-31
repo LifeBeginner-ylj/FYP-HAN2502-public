@@ -1,0 +1,11 @@
+scenario,run,u_llm,u_theoretical_optimum,u_full_revelation,u_no_revelation,u_worst_baseline,optimality_gap,rpl,is_valid_scheme,llm_provider
+QualityControl,1,7.0,7.0,7.0,0.0,0.0,0.0,1.0,True,poe-Claude-3.5-Sonnet
+QualityControl,2,7.0,7.0,7.0,0.0,0.0,0.0,1.0,True,poe-Claude-3.5-Sonnet
+QualityControl,3,7.0,7.0,7.0,0.0,0.0,0.0,1.0,True,poe-Claude-3.5-Sonnet
+QualityControl,4,7.0,7.0,7.0,0.0,0.0,0.0,1.0,True,poe-Claude-3.5-Sonnet
+QualityControl,5,7.0,7.0,7.0,0.0,0.0,0.0,1.0,True,poe-Claude-3.5-Sonnet
+SimpleBinaryGame,1,1.0,1.0,0.5,1.0,0.5,0.0,1.0,True,poe-Claude-3.5-Sonnet
+SimpleBinaryGame,2,1.0,1.0,0.5,1.0,0.5,0.0,1.0,True,poe-Claude-3.5-Sonnet
+SimpleBinaryGame,3,1.0,1.0,0.5,1.0,0.5,0.0,1.0,True,poe-Claude-3.5-Sonnet
+SimpleBinaryGame,4,0.75,1.0,0.5,1.0,0.5,0.25,0.5,True,poe-Claude-3.5-Sonnet
+SimpleBinaryGame,5,1.0,1.0,0.5,1.0,0.5,0.0,1.0,True,poe-Claude-3.5-Sonnet

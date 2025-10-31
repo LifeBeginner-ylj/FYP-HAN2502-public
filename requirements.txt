@@ -1,0 +1,4 @@
+openai
+pandas
+numpy
+fastapi-poe  # For Poe API (optional)
